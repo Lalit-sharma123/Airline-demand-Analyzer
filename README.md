@@ -13,6 +13,7 @@ This project demonstrates a real-world application of web scraping, API integrat
 - Displays interactive charts and tables on a web dashboard
 
 ---
+![image alt](https://github.com/Lalit-sharma123/Airline-demand-Analyzer/blob/572930973804fc90dc32ecb0ec6e3119bd2a1370/Screenshot%202025-07-05%20134753.png)
 
 ## 💡 Features
 
