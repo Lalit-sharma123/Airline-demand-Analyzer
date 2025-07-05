@@ -15,6 +15,7 @@ This project demonstrates a real-world application of web scraping, API integrat
 ---
 ![image alt](https://github.com/Lalit-sharma123/Airline-demand-Analyzer/blob/572930973804fc90dc32ecb0ec6e3119bd2a1370/Screenshot%202025-07-05%20134753.png)
 
+local host url:http://127.0.0.1:5000
 ## 💡 Features
 
 - ✅ Web scraping of travel data from publicly available sources
