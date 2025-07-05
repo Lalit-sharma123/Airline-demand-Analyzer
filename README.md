@@ -36,5 +36,9 @@ This project demonstrates a real-world application of web scraping, API integrat
 
 ---
 
+linkdin: https://www.linkedin.com/in/lalitkumarsharma1
+
+email: sharmaalalit555@gmail.com
+
 
 
